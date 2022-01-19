@@ -17,7 +17,7 @@
 
 **Data - Run command below to add user data**
 
-```mongodb
+```json
 db.users.insertMany(
  [[
   {
